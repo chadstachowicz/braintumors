@@ -4,3 +4,5 @@ runs
 model*
 archive-backup
 .DS_Store
+nohup.out
+training-logs.txt
